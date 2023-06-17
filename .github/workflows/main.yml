@@ -14,4 +14,4 @@ jobs:
         server: ftp.promocod.net
         username: ftp-user-1@promocod.net
         password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: ./ftp.promocod.net
+        server-dir: ./ftp.promocod.net/
